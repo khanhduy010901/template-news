@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.alithemes.com	TRUE	/	FALSE	1999999999	__cfduid	d60e3e9964162590c79301057f06c49731610509339
+demos.alithemes.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
